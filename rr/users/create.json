@@ -1,0 +1,20 @@
+{
+    "request": {
+        "firstname": "",
+        "surname": "",
+        "email": "",
+        "password": "",
+        "dob": "",
+        "gender": "",
+    },
+    "response": {
+        "firstname": "",
+        "surname": "",
+        "email": "",
+        "password": "",
+        "dob": "",
+        "gender": "",
+        "createdAt": "",
+        "updatedAt": "",
+    },
+}
