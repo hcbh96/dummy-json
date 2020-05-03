@@ -6,4 +6,5 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
+    "isVerified" true,
 }
