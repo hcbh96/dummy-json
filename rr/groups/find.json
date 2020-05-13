@@ -1,0 +1,6 @@
+{
+  "total": "<total number of records>",
+  "limit": "<max number of items per page>",
+  "skip": "<number of skipped items (offset)>",
+  "data": []
+}
