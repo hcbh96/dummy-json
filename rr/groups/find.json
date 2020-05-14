@@ -1,7 +1,7 @@
 {
-  "total": "<total number of records>",
-  "limit": "<max number of items per page>",
-  "skip": "<number of skipped items (offset)>",
+  "total": 2,
+  "limit": 50,
+  "skip": 0,
   "data": [{
     "id": 1,
     "name": "Bristol Tennis Group",
