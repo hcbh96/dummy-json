@@ -8,9 +8,9 @@
     "desc": "Something is a brewing on the mul a kintyre"
     "members": [1]
   },{
-    "id": 2
+    "id": 2,
     "name": "London Tennis Network",
-    "desc": "Peter pan or peter rabit"
+    "desc": "Peter pan or peter rabit",
     "members": [1, 2]
   }]
 }
