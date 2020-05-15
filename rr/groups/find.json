@@ -1,36 +1,38 @@
 {
-  "total": 2,
-  "limit": 50,
-  "skip": 0,
-  "data": [{
-    "id": 1,
-    "name": "Bristol Tennis Group",
-    "desc": "Something is a brewing on the mul a kintyre",
-    "members": [1]
-  },{
-    "id": 2,
-    "name": "London Tennis Network",
-    "desc": "Peter pan or peter rabit",
-    "members": [1, 2]
-  },{
-    "id": 1,
-    "name": "Bristol Tennis Group",
-    "desc": "Something is a brewing on the mul a kintyre",
-    "members": [1]
-  },{
-    "id": 2,
-    "name": "London Tennis Network",
-    "desc": "Peter pan or peter rabit",
-    "members": [1, 2]
-  },{
-    "id": 1,
-    "name": "Bristol Tennis Group",
-    "desc": "Something is a brewing on the mul a kintyre",
-    "members": [1]
-  },{
-    "id": 2,
-    "name": "London Tennis Network",
-    "desc": "Peter pan or peter rabit",
-    "members": [1, 2]
-  }]
+  "groups": {
+    "total": 2,
+    "limit": 50,
+    "skip": 0,
+    "data": [{
+      "id": 1,
+      "name": "Bristol Tennis Group",
+      "desc": "Something is a brewing on the mul a kintyre",
+      "members": [1]
+    },{
+      "id": 2,
+      "name": "London Tennis Network",
+      "desc": "Peter pan or peter rabit",
+      "members": [1, 2]
+    },{
+      "id": 1,
+      "name": "Bristol Tennis Group",
+      "desc": "Something is a brewing on the mul a kintyre",
+      "members": [1]
+    },{
+      "id": 2,
+      "name": "London Tennis Network",
+      "desc": "Peter pan or peter rabit",
+      "members": [1, 2]
+    },{
+      "id": 1,
+      "name": "Bristol Tennis Group",
+      "desc": "Something is a brewing on the mul a kintyre",
+      "members": [1]
+    },{
+      "id": 2,
+      "name": "London Tennis Network",
+      "desc": "Peter pan or peter rabit",
+      "members": [1, 2]
+    }]
+  }
 }
