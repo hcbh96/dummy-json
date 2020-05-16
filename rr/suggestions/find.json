@@ -7,10 +7,27 @@
          {
             "id":1,
             "user_id":1,
-            "suggestion_id":2,
+            "opponent_id":2,
             "activity":"tennis",
             "locations":[ 10 ],
-            "timestamp":"1589528701"
+            "timestamp":"1589528701",
+            "accepted": [2]
+         },{
+            "id":2,
+            "user_id":1,
+            "opponent_id":2,
+            "activity":"golf",
+            "locations":[ 10 ],
+            "timestamp":"1589539620",
+            "accepted": [1]
+         },{
+            "id":1,
+            "user_id":1,
+            "opponent_id":2,
+            "activity":"tennis",
+            "locations":[ 10 ],
+            "timestamp":"1589540000",
+            "accepted": []
          }
       ]
    },
