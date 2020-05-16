@@ -14,15 +14,20 @@
          }
       ]
    },
-   "locations": [
-      {
-         "travel_time":{
-            "id": 10,
-            "public_trasport":10,
-            "car":8,
-            "foot":30,
-            "cycle":14
+   "locations": {
+      "total":10,
+      "limit":50,
+      "skip":0,
+      "data":[
+         {
+            "travel_time":{
+               "id": 10,
+               "public_trasport":10,
+               "car":8,
+               "foot":30,
+               "cycle":14
+            }
          }
-      }
-   ]
+      ]
+   }
 }
