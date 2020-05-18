@@ -1,5 +1,5 @@
 {
-   "suggestions": {
+   "suggestions":{
       "total":10,
       "limit":50,
       "skip":0,
@@ -9,46 +9,64 @@
             "user_id":1,
             "opponent_id":2,
             "activity":"tennis",
-            "locations":[ 10, 11 ],
+            "locations":[
+               10,
+               11
+            ],
             "timestamp":"1589528701",
-            "accepted": [2]
-         },{
+            "accepted":[
+               2
+            ]
+         },
+         {
             "id":2,
             "user_id":1,
             "opponent_id":2,
             "activity":"golf",
-            "locations":[ 10, 11 ],
+            "locations":[
+               10,
+               11
+            ],
             "timestamp":"1589539620",
-            "accepted": [1]
-         },{
+            "accepted":[
+               1
+            ]
+         },
+         {
             "id":1,
             "user_id":1,
             "opponent_id":2,
             "activity":"tennis",
-            "locations":[ 10, 11 ],
+            "locations":[
+               10,
+               11
+            ],
             "timestamp":"1589540000",
-            "accepted": []
+            "accepted":[
+
+            ]
          }
       ]
    },
-   "locations": {
+   "locations":{
       "total":10,
       "limit":50,
       "skip":0,
       "data":[
          {
-            "id": 10,
-            "name": "Cotham Hill Squash Club",
-            "travel_time": {
+            "id":10,
+            "name":"Cotham Hill Squash Club",
+            "travel_time":{
                "public_transport":10,
                "car":8,
                "foot":30,
                "cycle":14
             }
-         },{
-            "id": 11,
-            "name": "Closer Hill Club",
-            "travel_time": {
+         },
+         {
+            "id":11,
+            "name":"Closer Hill Club",
+            "travel_time":{
                "public_transport":9,
                "car":8,
                "foot":30,
@@ -57,17 +75,18 @@
          }
       ]
    },
-   "users": {
+   "users":{
       "total":2,
       "limit":50,
       "skip":0,
       "data":[
          {
-            "id": 1,
-            "name": "Martin",
-         },{
-            "id": 2,
-            "name": "Mark",
+            "id":1,
+            "name":"Martin"
+         },
+         {
+            "id":2,
+            "name":"Mark"
          }
       ]
    }
