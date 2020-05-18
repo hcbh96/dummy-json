@@ -47,5 +47,19 @@
             }
          }
       ]
+   },
+   "users": {
+      "total":2,
+      "limit":50,
+      "skip":0,
+      "data":[
+         {
+            "id": 1,
+            "name": "Martin",
+         },{
+            "id": 2,
+            "name": "Mark",
+         }
+      ]
    }
 }
