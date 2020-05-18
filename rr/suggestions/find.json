@@ -24,8 +24,7 @@
             "opponent_id":2,
             "activity":"golf",
             "locations":[
-               10,
-               11
+               10
             ],
             "timestamp":"1589539620",
             "accepted":[
